@@ -1,0 +1,17 @@
+.footer{
+    height: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #121619;
+    color: white;
+    /* flex-direction: column; */
+}
+
+.items{
+    margin-top: 15px;
+    cursor: pointer;
+}
+
+.items:hover{
+    color: rgba(241, 241, 241, 0.596);
+}
